@@ -1,5 +1,5 @@
 """
-assignment_5_thomas_marshall.py
+blackjack_game_advanced.py
 
 This program runs a version of black jack where the user needs to get a higher
 card compination then the dealer. The highest you can go is 21, any higher and you bust.
